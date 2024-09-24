@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26f83499-34c2-4efb-bfeb-40040463b39d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_checkpoints.tar.gz" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2al5IWftWZeFuoeH5POPabAE1ye" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2023-24\finalprojects\embryoclassification\model_checkpoints" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26f83499-34c2-4efb-bfeb-40040463b39d" name="Default Changelist" comment="" />
+      <created>1704880245561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704880245561</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1720541906664">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1720541906664" />
+    <state x="364" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1719910974129">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="364" y="139" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672@0.0.1280.672" timestamp="1719910974129" />
+    <state x="399" y="217" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1719911007935">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="399" y="217" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.672@0.0.1280.672" timestamp="1719911007935" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1727147480466">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1727147480466" />
+    <state x="170" y="0" key="SettingsEditor" timestamp="1727162838842">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.672@0.0.1280.672" timestamp="1720541942565" />
+    <state x="170" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1727162838842" />
+    <state x="409" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1727162792607">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="341" y="160" key="com.intellij.ide.util.TipDialog/0.0.1280.672@0.0.1280.672" timestamp="1722864038536" />
+    <state x="409" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1727162792607" />
+  </component>
+</project>
